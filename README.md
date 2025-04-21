@@ -1,6 +1,7 @@
 ### Olá, eu sou a Maisa Amaral 👋🏼
 
 **Seja bem-vindo ao meu perfil!**
+
 Oi, eu sou a Maisa, tenho 19 anos, e sou um estudante de ADS, apaixonada por **tecnologia e inovação, **. Acredito que, ao combinar esses conhecimentos, é possível construir um mundo mais , encantador, onde a inovação vai além da lógica.
 Aqui compartilho projetos, ideias e experimentos que refletem minha jornada.
 
@@ -15,4 +16,5 @@ Aqui compartilho projetos, ideias e experimentos que refletem minha jornada.
 <img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <br/>
+
 ---
