@@ -2,7 +2,7 @@
 
 **Seja bem-vindo ao meu perfil!**
 
-Oi, eu sou a Maisa, tenho 19 anos, e sou um estudante de ADS, apaixonada por tecnologia e inovação. Acredito que ao combinar esses conhecimentos, é possível construir um mundo mais , encantador, onde a inovação vai além da lógica.
+Oi, eu sou a Maisa, tenho 19 anos, e sou um estudante de ADS, apaixonada por tecnologia e inovação. Acredito que ao combinar esses conhecimentos, é possível construir um mundo mais encantador, onde a inovação vai além da lógica.
 
 Aqui compartilho projetos, ideias e experimentos que refletem minha jornada.
 
