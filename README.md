@@ -1,4 +1,4 @@
-### Olá, eu sou a Maisa Amaral 👋🏼
+### 👨🏻‍💻 Desenvolvedora Front-End | UX Design
 
 **Seja bem-vindo ao meu perfil!**
 
