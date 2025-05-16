@@ -1,4 +1,4 @@
-### 👨🏻‍💻 Desenvolvedora Front-End | UX Design
+### 👩‍💻 Desenvolvedora Front-End | UX Design
 
 **Seja bem-vindo ao meu perfil!**
 
