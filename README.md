@@ -1,4 +1,4 @@
-### 👩‍💻 Desenvolvedora Web | UX Design
+### 👩‍💻 Desenvolvedora Web | UX & UI Design
 
 **Seja bem-vindo ao meu perfil!**
 
