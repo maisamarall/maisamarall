@@ -1,5 +1,3 @@
-https://capsule-render.vercel.app/api?type=speech&height=174&color=gradient&text=Maisa%20Amaral&fontAlign=50
-
 ### 👩‍💻 Desenvolvedora Web | UX & UI Design
 
 **Seja bem-vindo ao meu perfil!**
