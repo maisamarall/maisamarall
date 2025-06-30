@@ -10,7 +10,7 @@ Tenho 19 anos e sou **Desenvolvedora Web** com **foco em Frontend**, e também m
 - Outras tecnologias: React, Tailwind CSS, Bootstrap
 
 #### 🛠️ Backend:
-- **C# (.NET):** Sou entusiasta para construir APIs robustas e escaláveis. Tenho experiência com desenvolvimento de APIs RESTful usando ASP.NET Core.
+- **C# (.NET):** Tenho experiência com desenvolvimento de APIs.
 - Outras tecnologias: Node.js, Python, Java, PostgreSQL
 
 🌱 **Estou sempre aprendendo e explorando novas tecnologias!**  
