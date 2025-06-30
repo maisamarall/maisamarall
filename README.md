@@ -1,21 +1,27 @@
-### 👩‍💻 Desenvolvedora Web | UX & UI Design
+### Olá! 👋 Sou a Maisa Amaral!
 
-**Seja bem-vindo ao meu perfil!**
+Tenho 19 anos e sou **Desenvolvedora Web** com **foco em Frontend**, e também me aventuro no mundo do **UX Design**. Como estudante de Análise e Desenvolvimento de Sistemas (ADS), minha paixão é criar soluções digitais que não só funcionam bem, mas que também oferecem uma experiência de usuário intuitiva e agradável. Atualmente, estou empenhada em aprimorar minhas habilidades e contribuir para projetos desafiadores.
 
-Oi, eu sou a Maisa, tenho 19 anos, e sou um estudante de ADS, apaixonada por tecnologia e inovação. Acredito que ao combinar esses conhecimentos, é possível construir um mundo mais encantador, onde a inovação vai além da lógica.
+🚀 **Minhas principais tecnologias e paixões incluem:**
 
-Aqui compartilho projetos, ideias e experimentos que refletem minha jornada.
+#### 🎨 Frontend:
+- **Vue.js:** Experiência com Vue para construir interfaces de usuário dinâmicas e reativas. Tenho experiência com consumo de APIs.
+- **HTML5, CSS3, JavaScript (ES6+):** A base de tudo!
+- Outras tecnologias: React, Tailwind CSS, Bootstrap
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maisaamaral/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maisamarall)
+#### 🛠️ Backend:
+- **C# (.NET):** Sou entusiasta do ecossistema .NET para construir APIs robustas e escaláveis, serviços e aplicações backend. Tenho experiência com desenvolvimento de APIs RESTful usando ASP.NET Core.
+- Outras tecnologias: Node.js, Python, Java, PostgreSQL
+
+🌱 **Estou sempre aprendendo e explorando novas tecnologias!**  
+Atualmente, estou me aprofundando mais na parte de back-End.
+
 ---
-## 🤖 Linguagens e Tecnologias
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+
+### **Conecte-se comigo!**
+
+Estou sempre aberta a novas oportunidades, colaborações e discussões sobre tecnologia. Sinta-se à vontade para me contatar:
+
+- **LinkedIn:** [www.linkedin.com/in/maisaamaral](https://www.linkedin.com/in/maisaamaral)
+- **Email:** maisaamaral220@gmail.com
+- **Portfólio/Website:** *Em breve!*
