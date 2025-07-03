@@ -7,7 +7,7 @@ Tenho 19 anos e sou **Desenvolvedora Web** com **foco em Frontend**, e também m
 #### 🎨 Frontend:
 - **Vue.js:** Experiência com Vue para construir interfaces de usuário dinâmicas e reativas. Tenho experiência com consumo de APIs.
 - **HTML5, CSS3, JavaScript (ES6+):** A base de tudo!
-- Outras tecnologias: React, Tailwind CSS, Bootstrap
+- Outras tecnologias: Tailwind CSS, Bootstrap, Figma.
 
 #### 🛠️ Backend:
 - **C# (.NET):** Tenho experiência com desenvolvimento de APIs.
