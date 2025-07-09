@@ -5,16 +5,17 @@ Tenho 19 anos e sou **Desenvolvedora Web** com **foco em Frontend**, e também m
 🚀 **Minhas principais tecnologias e paixões incluem:**
 
 #### 🎨 Frontend:
-- **Vue.js:** Experiência com Vue para construir interfaces de usuário dinâmicas e reativas. Tenho experiência com consumo de APIs.
+- **Vue.js:** Experiência com Vue para construir interfaces de usuário dinâmicas e reativas.
 - **HTML5, CSS3, JavaScript (ES6+):** A base de tudo!
 - Outras tecnologias: Tailwind CSS, Bootstrap, Figma.
+- Tenho experiência com consumo de APIs.
 
 #### 🛠️ Backend:
 - **C# (.NET):** Tenho experiência com desenvolvimento de APIs.
-- Outras tecnologias: Node.js, Python, Java, PostgreSQL
+- Outras tecnologias: Node.js, Python, PostgreSQL.
 
 🌱 **Estou sempre aprendendo e explorando novas tecnologias!**  
-Atualmente, estou me aprofundando mais na parte de back-End.
+Atualmente, estou me aprofundando mais na parte de back-End com Java.
 
 ---
 
