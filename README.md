@@ -21,7 +21,7 @@ Atualmente explorando o mundo do **UX Design** e me aprofundando no **Back-End c
 
 ### 💻 Tecnologias
 
-<div align="center">
+<div>
 
 #### 🧠 Linguagens
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
