@@ -1,30 +1,63 @@
-### Olá! 👋 Sou a Maisa Amaral!
+maisaamaral1/README.md
 
-Tenho 19 anos e sou **Desenvolvedora Web** com **foco em Frontend**, e também me aventuro no mundo do **UX Design**. Como estudante de Análise e Desenvolvimento de Sistemas (ADS), minha paixão é criar soluções digitais que não só funcionam bem, mas que também oferecem uma experiência de usuário intuitiva e agradável. Atualmente, estou empenhada em aprimorar minhas habilidades e contribuir para projetos desafiadores.
+# Olá! 👋 Sou a Maisa Amaral!
 
-🚀 **Minhas principais tecnologias e paixões incluem:**
+Desenvolvedora Web com foco em **Frontend** — apaixonada por criar experiências digitais incríveis!  
+Atualmente explorando o mundo do **UX Design** e me aprofundando no **Back-End com Java**.
 
-#### 🎨 Frontend:
-- **Vue.js:** Experiência com Vue para construir interfaces de usuário dinâmicas e reativas.
-- **HTML5, CSS3, JavaScript (ES6+):** A base de tudo!
-- Outras tecnologias: Tailwind CSS, Bootstrap, Figma.
-- Tenho experiência com consumo de APIs.
-
-#### 🛠️ Backend:
-- **C# (.NET):** Tenho experiência com desenvolvimento de APIs.
-- Outras tecnologias: Node.js, Python, PostgreSQL.
-
-🌱 **Estou sempre aprendendo e explorando novas tecnologias!**  
-Atualmente, estou me aprofundando mais na parte de back-End com Java.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maisaamaral/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maisaamaral220@gmail.com)
 
 ---
 
-### **Conecte-se comigo!**
+### 👩‍💻 Sobre mim
 
-Estou sempre aberta a novas oportunidades, colaborações e discussões sobre tecnologia. Sinta-se à vontade para me contatar:
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+- 💡 Amo criar soluções que funcionam bem **e** oferecem uma excelente experiência de usuário
+- 🎯 Foco principal em **desenvolvimento Frontend** com Vue.js, HTML, CSS e JavaScript
+- 🚀 Em constante aprendizado e evolução, atualmente focada em **Back-End com Java**
 
-- **LinkedIn:** [www.linkedin.com/in/maisaamaral](https://www.linkedin.com/in/maisaamaral)
-- **Email:** maisaamaral220@gmail.com
-- **Portfólio/Website:** *Em breve!*
+---
 
+### 💻 Tecnologias
 
+<div align="center">
+
+#### 🧠 Linguagens
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+
+#### 💅 Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
+
+#### 🔙 Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+
+#### 🗄 Banco de Dados
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+
+#### 🧰 Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+
+</div>
+
+---
+
+### 📬 Conecte-se comigo!
+
+Estou sempre aberta a novas oportunidades, colaborações e trocas de conhecimento!  
+Sinta-se à vontade para me chamar por qualquer um dos canais abaixo:
+
+- 🌐 Portfólio/Website: *Em breve!*
+- 💼 [LinkedIn](https://www.linkedin.com/in/maisaamaral/)
+- 📧 Email: [maisaamaral220@gmail.com](mailto:maisaamaral220@gmail.com)
