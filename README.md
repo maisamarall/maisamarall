@@ -12,10 +12,10 @@ Atualmente explorando o mundo do **UX Design** e me aprofundando no **Back-End c
 
 ### 👩‍💻 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) 
 - 💡 Amo criar soluções que funcionam bem **e** oferecem uma excelente experiência de usuário
 - 🎯 Foco principal em **desenvolvimento Frontend** com Vue.js, HTML, CSS e JavaScript
-- 🚀 Em constante aprendizado e evolução, atualmente focada em **Back-End com Java**
+- 🚀 Em constante aprendizado e evolução, atualmente focada em **Back-End com Java e C#**
 
 ---
 
@@ -47,7 +47,7 @@ Atualmente explorando o mundo do **UX Design** e me aprofundando no **Back-End c
 #### 🧰 Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" />
 
 </div>
 
