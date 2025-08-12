@@ -15,7 +15,7 @@ Atualmente explorando o mundo do **UX Design** e me aprofundando no **Back-End c
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) 
 - 💡 Amo criar soluções que funcionam bem **e** oferecem uma excelente experiência de usuário
 - 🎯 Foco principal em **desenvolvimento Frontend** com Vue.js, HTML, CSS e JavaScript
-- 🚀 Em constante aprendizado e evolução, atualmente focada em **Back-End com Java e C#**
+- 🚀 Em constante aprendizado e evolução, atualmente focada em **Back-End com C#**
 
 ---
 
@@ -39,7 +39,6 @@ Atualmente explorando o mundo do **UX Design** e me aprofundando no **Back-End c
 #### 🔙 Backend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
 
 #### 🗄 Banco de Dados
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
