@@ -51,3 +51,7 @@ Sinta-se à vontade para me chamar por qualquer um dos canais abaixo:
 - 🌐 Portfólio/Website: *Em breve!*
 - 💼 [LinkedIn](https://www.linkedin.com/in/maisaamaral/)
 - 📧 Email: [maisaamaral220@gmail.com](mailto:maisaamaral220@gmail.com)
+
+  ###
+
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
