@@ -16,8 +16,7 @@ Atualmente explorando o mundo do **UX Design**.
 - 💡 Amo criar soluções que funcionam bem **e** oferecem uma excelente experiência de usuário
 - 📍 Projetos Pessoais e acadêmicos
 - 🎯 Foco principal em **desenvolvimento Frontend** com Vue.js, HTML, CSS e JavaScript
-- 🚀 Em constante aprendizado e evolução, atualmente focada em **Back-End com C#**
-
+- 
 ---
 
 ### 💻 Tecnologias
@@ -48,7 +47,7 @@ Atualmente explorando o mundo do **UX Design**.
 ### 📬 Conecte-se comigo!
 
 Estou sempre aberta a novas oportunidades, colaborações e trocas de conhecimento!  
-Sinta-se à vontade para me chamar por qualquer um dos canais abaixo:
+Sinta-se à vontade para me chamar :
 
 - 🌐 Portfólio/Website: *Em breve!*
 - 💼 [LinkedIn](https://www.linkedin.com/in/maisaamaral/)
