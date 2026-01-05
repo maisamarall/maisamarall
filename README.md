@@ -13,7 +13,7 @@ Desenvolvedora Web com foco em **Frontend** — Amo criar experiências digitais
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) 
 - 💡 Amo criar soluções que funcionam bem **e** oferecem uma excelente experiência de usuário
-- 📍 Projetos Pessoais e acadêmicos
+- 📍 Projetos pessoais e acadêmicos
 - 🎯 Foco principal em **desenvolvimento Frontend** com Vue.js, HTML, CSS e JavaScript
 - 🚀 Experência com Angular e TypeScript
 
