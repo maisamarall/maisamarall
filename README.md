@@ -16,6 +16,7 @@ Desenvolvedora Web com foco em **Frontend** — Amo criar experiências digitais
 - 📍 Projetos pessoais e acadêmicos
 - 🎯 Foco principal em **desenvolvimento Frontend** com Vue.js, HTML, CSS e JavaScript
 - 🚀 Experência com Angular e TypeScript
+- 👩🏻‍💻 Estudando Java 
 
 ---
 
