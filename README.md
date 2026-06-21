@@ -15,7 +15,7 @@ Desenvolvedora Web com foco em **Frontend** — Amo criar experiências digitais
 - 💡 Amo criar soluções que funcionam bem **e** oferecem uma excelente experiência de usuário
 - 📍 Projetos pessoais e acadêmicos
 - 🎯 Foco principal em **desenvolvimento Frontend** com Vue.js, Angular, TypeScript, HTML, CSS e JavaScript
-- 🚀 Experência com Angular e TypeScript
+- 🚀 Pós graduando em desenvolvimento Full-Stack
 - 👩🏻‍💻 Atualmente estudando Java para BackEnd & Angular para FrontEnd
 
 ---
@@ -38,6 +38,8 @@ Desenvolvedora Web com foco em **Frontend** — Amo criar experiências digitais
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" /> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" />
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" /> -->
 
